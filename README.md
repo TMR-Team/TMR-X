@@ -1,2 +1,2 @@
 # TMR-X
-TMR-X - Roblox Hub Script
+Roblox Hub Script
